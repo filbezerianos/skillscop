@@ -1,0 +1,15 @@
+{
+    "paths" : {
+        "enterprise_skills_path" : null,
+        "team_skills_path" : null,
+        "personal_skills_path" : null,
+        "skills_root_path" : null,
+        "reports_export_path" : null
+    },
+
+    "thresholds" : {
+        "file_cosine_similarity_threshold" : 0.75,
+        "description_cosine_similarity_threshold" : 0.75,
+        "instructions_conflict_threshold" : 0.7
+    }
+}
